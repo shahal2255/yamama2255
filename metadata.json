@@ -1,0 +1,8 @@
+{
+  "name": "Remix Yamama Shawaya",
+  "description": "Authentic Shawaya \u0026 Charcoal Grills in Oradampalam-Valiyavitilpadi, Tirurkad, Perinthalmanna, Kerala. Delicious rotisserie shawaya, al faham, bishawari rice combos, and Bene Tibi mojitos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
